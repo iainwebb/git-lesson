@@ -1,8 +1,8 @@
 # Iain's Website for the Git, GitHun and GitKraken course
 
-These are my notes from the [Git, GitHub and GitKraken course] (https://srse-git-github-zero2hero.netlify.app/)
+These are my notes from the [Git, GitHub and GitKraken course](https://srse-git-github-zero2hero.netlify.app/)
 
-![The Peaks] (https://www.ryanair.com/try-somewhere-new/dam/gb/en/Bamford%20Edge%20CREDIT%20Visit%20Peak%20District%20&%20Derbyshire.jpg)
+![The Peaks](https://www.ryanair.com/try-somewhere-new/dam/gb/en/Bamford%20Edge%20CREDIT%20Visit%20Peak%20District%20&%20Derbyshire.jpg)
 
 Episodes...
 
