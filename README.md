@@ -12,3 +12,5 @@ I have lots to do later today so here is my ToDo list...
   + Subtask 1
   + Subtask 2
   + Subtask 3
+  + New subtask 1
+  + New subtask 2
