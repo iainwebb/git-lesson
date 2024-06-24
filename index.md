@@ -2,7 +2,7 @@
 
 These are my notes from the [Git, GitHub and GitKraken course] (https://srse-git-github-zero2hero.netlify.app/)
 
-![The Peaks] (https://www.ryanair.com/try-somewhere-new/dam/gb/en/Bamford%20Edge%20CREDIT%20Visit%20Peak%20District%20&%20Derbyshire.jpg.transform/te-image-480w/image.4f66113bc71fa8b9a92ae4680ba1f063.jpg)
+![The Peaks] (https://www.ryanair.com/try-somewhere-new/dam/gb/en/Bamford%20Edge%20CREDIT%20Visit%20Peak%20District%20&%20Derbyshire.jpg)
 
 Episodes...
 
